@@ -1,0 +1,18 @@
+*gold|name|hp|stamina|defense|condition|advantage|elemental weakness|starting items|number of items|ultimate
+*Epic Encounter Enemies
+95|The Laestrygonian King|220|100|55|H|True|E|Lesser Health Potion,King's Blade|1,1|none
+100|Scylla|200|75|75|H|True|E|Lesser Health Potion,Fangs of Scylla|1,1|none
+100|Cyclops|200|75|75|H|True|E|Lesser Health Potion,Cyclops Gaze|1,1|none
+*Island Enemies
+25|Sirens|150|100|25|H|False|E|Lesser Health Potion,Tidal Charm of the Sirens|1,1|none
+35|Giants|170|75|50|H|False|F|Lesser Health Potion,Maul of the Giants|1,1|none
+40|Cicones|140|90|20|H|False|E|Lesser Health Potion,Ciconian Spear|1,1|none
+45|Lotus Eaters|160|80|25|H|True|A|Lesser Health Potion,Lotus Staff|1,1|none
+55|Laestrygonians|180|70|30|H|False|F|Lesser Health Potion,Laestrygonian Club|1,1|none
+65|Circe's Enchantresses|200|60|35|H|True|E|Lesser Health Potion,Enchanted Wand|1,1|none
+75|Calypso's Nymphs|220|50|40|H|True|W|Lesser Health Potion,Nymph's Shield|1,1|none
+**Playable character
+50|Odysseus|100|100|0|H|False|W|Lesser Health Potion,Bow of Odysseus|1,1|none
+75|Argos|120|100|20|H|False|W|Lesser Health Potion,Argos' Fangs|1,1|none
+75|Circe|110|110|10|H|False|E|Lesser Health Potion,Circe's Wand|1,1|none
+100|Achilles|130|90|30|H|False|F|Lesser Health Potion,Shield of Achilles|1,1|none
